@@ -4,11 +4,13 @@ import Footer from "./Footer.jsx";
 function App() {
   return (
     <>
-      <Header/>
-      <Footer/>
+      <Header />
+      <Food />
+      <Food />
+      <Food />
+      <Footer />
     </>
-  )
-  ;
+  );
 }
 
 export default App;
