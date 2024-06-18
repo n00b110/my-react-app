@@ -1,7 +1,10 @@
-import Card from "./Card";
+// App.js
+import Card from './Card';
 
 function App() {
-  <Card />
+  return (
+      <Card />
+  );
 }
 
 export default App;
